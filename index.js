@@ -1,1 +1,1 @@
-console.log("Hello world!");
+module.exports.Push = require("./src/push/push");
