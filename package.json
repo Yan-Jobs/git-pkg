@@ -1,0 +1,22 @@
+{
+  "name": "git-pkg",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yan-Jobs/git-pkg.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Yan-Jobs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yan-Jobs/git-pkg/issues"
+  },
+  "homepage": "https://github.com/Yan-Jobs/git-pkg#readme"
+}
